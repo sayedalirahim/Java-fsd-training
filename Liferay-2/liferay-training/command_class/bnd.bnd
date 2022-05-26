@@ -1,0 +1,4 @@
+Bundle-Name: command_class
+Bundle-SymbolicName: command_class
+Bundle-Version: 1.0.0
+Export-Package: command_class.constants

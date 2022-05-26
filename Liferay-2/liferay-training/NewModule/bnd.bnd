@@ -1,0 +1,4 @@
+Bundle-Name: NewModule
+Bundle-SymbolicName: NewModule
+Bundle-Version: 1.0.0
+Export-Package: NewModule.constants

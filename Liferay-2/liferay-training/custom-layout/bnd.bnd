@@ -1,0 +1,4 @@
+Bundle-Name: custom-layout
+Bundle-SymbolicName: custom.layout
+Bundle-Version: 1.0.0
+Export-Package: custom.layout.constants

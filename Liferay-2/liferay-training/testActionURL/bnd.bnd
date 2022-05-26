@@ -1,0 +1,4 @@
+Bundle-Name: testActionURL
+Bundle-SymbolicName: testActionURL
+Bundle-Version: 1.0.0
+Export-Package: testActionURL.constants

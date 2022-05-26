@@ -1,0 +1,4 @@
+Bundle-Name: Asgmnt1
+Bundle-SymbolicName: Asgmnt1
+Bundle-Version: 1.0.0
+Export-Package: Asgmnt1.constants
