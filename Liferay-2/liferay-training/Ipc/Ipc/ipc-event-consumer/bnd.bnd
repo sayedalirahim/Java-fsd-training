@@ -1,0 +1,4 @@
+Bundle-Name: ipc-event-consumer
+Bundle-SymbolicName: ipc.event.consumer
+Bundle-Version: 1.0.0
+Export-Package: ipc.event.consumer.constants
