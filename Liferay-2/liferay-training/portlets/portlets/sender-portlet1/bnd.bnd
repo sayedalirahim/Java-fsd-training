@@ -1,0 +1,4 @@
+Bundle-Name: sender-portlet1
+Bundle-SymbolicName: sender.portlet1
+Bundle-Version: 1.0.0
+Export-Package: sender.portlet1.constants

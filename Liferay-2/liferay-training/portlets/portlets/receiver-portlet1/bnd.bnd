@@ -1,0 +1,4 @@
+Bundle-Name: receiver-portlet1
+Bundle-SymbolicName: receiver.portlet1
+Bundle-Version: 1.0.0
+Export-Package: receiver.portlet1.constants
